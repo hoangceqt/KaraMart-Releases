@@ -1,11 +1,17 @@
 {
-  "phienBan": "2.0.0",
-  "soMigration": 54,
+  "phienBan": "2.1.0",
+  "soMigration": 55,
   "ngay": "2026-10-03",
-  "tepCai": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-Manager-Setup-2.0.0-20261003-0927.exe",
-  "sha256": "df60d3f10bfd0792b60888681402ba7c5e6e8100346d96cfc0a3d7d67b833192",
+  "tepCai": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-Manager-Setup-2.1.0-20261003-1442.exe",
+  "sha256": "9210c514611db64c23a36098c9cbea95349efa728d7a009171c67409e1cc075d",
   "ghiChu": [
-    "Doi ten MusicBox thanh KaraMart (LUAT 159): ten hien thi, CSDL, may cai, kenh phat hanh moi KaraMart-Releases. KHONG va duoc tu 1.x - go MusicBox roi cai moi",
-    "bo cai tu dung neu may con MusicBox. Xoa sau cong cu .bat doi cu."
-  ]
+    "TH-22 ve 1: thuong theo doanh thu ca - luat chung + chi nhanh de, bon cach tinh quy, bon cach chia, vao bang luong cot Thuong rieng, chot luc lap luong. Ban di tru 55."
+  ],
+  "banVa": {
+    "tep": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-BanVa-2.1.0.zip",
+    "sha256": "0a45fa56a91cb3168563dfe78f625ccf919d714a8ed7b03301491e3168ce0864",
+    "co": 18766675,
+    "bamPhuThuoc": "016219f6b86fa6bab49fdad4afb67985156930bc8e85ec5e9affdc4a4aa102e2",
+    "tuPhienBanToiThieu": "2.0.0"
+  }
 }
