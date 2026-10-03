@@ -1,0 +1,11 @@
+{
+  "phienBan": "2.0.0",
+  "soMigration": 54,
+  "ngay": "2026-10-03",
+  "tepCai": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-Manager-Setup-2.0.0-20261003-0927.exe",
+  "sha256": "df60d3f10bfd0792b60888681402ba7c5e6e8100346d96cfc0a3d7d67b833192",
+  "ghiChu": [
+    "Doi ten MusicBox thanh KaraMart (LUAT 159): ten hien thi, CSDL, may cai, kenh phat hanh moi KaraMart-Releases. KHONG va duoc tu 1.x - go MusicBox roi cai moi",
+    "bo cai tu dung neu may con MusicBox. Xoa sau cong cu .bat doi cu."
+  ]
+}
