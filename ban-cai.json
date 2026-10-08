@@ -1,16 +1,16 @@
 {
-  "phienBan": "2.1.0",
-  "soMigration": 55,
-  "ngay": "2026-10-03",
-  "tepCai": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-Manager-Setup-2.1.0-20261003-1442.exe",
-  "sha256": "9210c514611db64c23a36098c9cbea95349efa728d7a009171c67409e1cc075d",
+  "phienBan": "2.2.0",
+  "soMigration": 61,
+  "ngay": "2026-10-08",
+  "tepCai": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-Manager-Setup-2.2.0-20261008-0844.exe",
+  "sha256": "01a766a2d07166e21e00c678e032b7258ea478106e996e3483030909cbac5fbb",
   "ghiChu": [
-    "TH-22 ve 1: thuong theo doanh thu ca - luat chung + chi nhanh de, bon cach tinh quy, bon cach chia, vao bang luong cot Thuong rieng, chot luc lap luong. Ban di tru 55."
+    "TH-15 dinh luong nguyen lieu: ba loai san pham (dong goi / che bien / nguyen lieu), bien the mon che bien voi gia + cong thuc rieng, ban che bien chi tru nguyen lieu, het mon theo bien the. Ban di tru 56. TH-16 gia von theo lo: ban di tru 57 (LoTon, DongLo), ban di tru 58 (DongChuyenKho.loXuat / loNhan: chuyen kho mang nguyen lo). Dong bo: ban di tru 59 (SyncThietBi.mucLoi*: VPS giu muc ap loi de may chinh gui lai) + xep hang lo day len. TH-22 ve 2 hoa hong theo mon: ban di tru 60 (LuatHoaHong, OrderItem.nguoiBanId, Payroll.hoaHong). TH-23 ve 2 cong no khach: ban di tru 61 (KhoanNo, DongThuNo, Customer.hanMucNo, Order.soTienNo)."
   ],
   "banVa": {
-    "tep": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-BanVa-2.1.0.zip",
-    "sha256": "0a45fa56a91cb3168563dfe78f625ccf919d714a8ed7b03301491e3168ce0864",
-    "co": 18766675,
+    "tep": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-BanVa-2.2.0.zip",
+    "sha256": "b8460b3f0ce24db7b6cffe701f7b77be159e2cba5bbd2eeafccb61bc3dd23b83",
+    "co": 18882866,
     "bamPhuThuoc": "016219f6b86fa6bab49fdad4afb67985156930bc8e85ec5e9affdc4a4aa102e2",
     "tuPhienBanToiThieu": "2.0.0"
   }
