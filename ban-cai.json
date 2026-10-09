@@ -1,16 +1,16 @@
 {
-  "phienBan": "2.2.0",
-  "soMigration": 61,
+  "phienBan": "2.3.0",
+  "soMigration": 63,
   "ngay": "2026-10-08",
-  "tepCai": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-Manager-Setup-2.2.0-20261008-0844.exe",
-  "sha256": "01a766a2d07166e21e00c678e032b7258ea478106e996e3483030909cbac5fbb",
+  "tepCai": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-Manager-Setup-2.3.0-20261009-1925.exe",
+  "sha256": "b16f3a959fe0d7802be4456fdfb80d07bd546f88aa4139b5e07370f3bc35902d",
   "ghiChu": [
-    "TH-15 dinh luong nguyen lieu: ba loai san pham (dong goi / che bien / nguyen lieu), bien the mon che bien voi gia + cong thuc rieng, ban che bien chi tru nguyen lieu, het mon theo bien the. Ban di tru 56. TH-16 gia von theo lo: ban di tru 57 (LoTon, DongLo), ban di tru 58 (DongChuyenKho.loXuat / loNhan: chuyen kho mang nguyen lo). Dong bo: ban di tru 59 (SyncThietBi.mucLoi*: VPS giu muc ap loi de may chinh gui lai) + xep hang lo day len. TH-22 ve 2 hoa hong theo mon: ban di tru 60 (LuatHoaHong, OrderItem.nguoiBanId, Payroll.hoaHong). TH-23 ve 2 cong no khach: ban di tru 61 (KhoanNo, DongThuNo, Customer.hanMucNo, Order.soTienNo)."
+    "Tro ly AI: cong mot cua nhieu nha cung cap (Anthropic, OpenAI, Gemini, OpenAI-tuong-thich, 9router), bao cao cuoi ngay bang loi, hoi dap so lieu (man + bot Telegram), doc anh hoa don NCC. Ban di tru 62 (NhatKyAi), 63 (GhiNhoHangNcc)."
   ],
   "banVa": {
-    "tep": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-BanVa-2.2.0.zip",
-    "sha256": "b8460b3f0ce24db7b6cffe701f7b77be159e2cba5bbd2eeafccb61bc3dd23b83",
-    "co": 18882866,
+    "tep": "https://github.com/hoangceqt/KaraMart-Releases/releases/latest/download/KaraMart-BanVa-2.3.0.zip",
+    "sha256": "3a89b59aa22d03b54dc8dfa61fffea9221c3399ff356e3c3002b56f5ed4f2f78",
+    "co": 18968577,
     "bamPhuThuoc": "016219f6b86fa6bab49fdad4afb67985156930bc8e85ec5e9affdc4a4aa102e2",
     "tuPhienBanToiThieu": "2.0.0"
   }
